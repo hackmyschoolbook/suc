@@ -2,8 +2,7 @@
   "name": "ecomm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hackmyschoolbook.github.io/react-gh-pages",
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  
   "homepage": "http://hackmyschoolbook.github.io/react-gh-pages",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
